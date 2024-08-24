@@ -1,27 +1,20 @@
-# BuzzFeedClone
+![Angular Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/200px-Angular_full_color_logo.svg.png) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+# ✅Página feita com Angula para um desafio da DIO
 
-## Development server
+## O projeto era recriar uma página inspirada no Buzz Feed
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+É um game para ver quem você é entre 4 personagens. Não prolonguei muito a parte de dados sobre perguntas e respostas, pedi ao ChatGPT para fazer um JSON para mim contendo 4 possibilidades e trabalhei em cima de 5 perguntas.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+🚷Nesse projeto, não foram utilizados mecanismos de rotas, apenas uma SPA estática.
 
-## Build
+O desafio consistia em absorver uma visão atômica dos elementos em um design, e passar isso para o Angular para o aproveitamento do sistema de componentes.
+#
+*Este projeto foi feito utilizando o padrão modular, ao invés do padrão Standalone da versão 17+*
+#
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Qualquer coisa, entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/thyago-monnerat/).
+###### # Abraços 🖖
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
