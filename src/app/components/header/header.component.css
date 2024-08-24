@@ -1,0 +1,24 @@
+.header {
+  width: 100%;
+  padding: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border-bottom: 5px solid #0ada25;
+
+  margin-bottom: 60px;
+}
+
+.header > .header-socials {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.header > .header-socials > a > svg {
+  fill: white;
+  width: 30px;
+  height: 30px;
+}

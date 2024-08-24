@@ -1,0 +1,14 @@
+<div class="quiz" *ngIf="!endGame">
+  <p class="quiz-main-phrase">{{ mainPhrase }}</p>
+  <p class="quiz-main-question">{{ questions[startIndex].question }}</p>
+
+  <div class="cards-wrapper">
+    <app-card-option
+      *ngFor="let option of questions[startIndex].options"
+      [cardContent]="option.content"
+      (click)="choose(option.alias)"
+    ></app-card-option>
+  </div>
+</div>
+
+<app-end-game *ngIf="endGame" [finalResult]="result"></app-end-game>

@@ -1,0 +1,25 @@
+.end-game {
+  width: 100%;
+  max-width: 1100px;
+  height: 380px;
+
+  margin: auto;
+
+  background-color: #9353cedd;
+
+  border-radius: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+
+  & h1 {
+    font-size: 50px;
+  }
+
+  & a{
+    text-decoration: none;
+  }
+}

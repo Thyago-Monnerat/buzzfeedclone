@@ -1,0 +1,133 @@
+{
+  "mainQuestion": "Qual Personagem de Série dos Anos 2000 Você É?",
+  "options": [
+    {
+      "id": 1,
+      "question": "Como você descreveria sua personalidade?",
+      "options": [
+        {
+          "content": "Divertido e sociável",
+          "alias": "Rachel Green"
+        },
+        {
+          "content": "Inteligente e focado",
+          "alias": "Michael Scofield"
+        },
+        {
+          "content": "Corajoso e protetor",
+          "alias": "Buffy Summers"
+        },
+        {
+          "content": "Racional e peculiar",
+          "alias": "Sheldon Cooper"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "O que você mais valoriza em uma amizade?",
+      "options": [
+        {
+          "content": "Lealdade",
+          "alias": "Buffy Summers"
+        },
+        {
+          "content": "Diversão",
+          "alias": "Rachel Green"
+        },
+        {
+          "content": "Confiança",
+          "alias": "Michael Scofield"
+        },
+        {
+          "content": "Inteligência",
+          "alias": "Sheldon Cooper"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual seria sua carreira dos sonhos?",
+      "options": [
+        {
+          "content": "Designer de moda",
+          "alias": "Rachel Green"
+        },
+        {
+          "content": "Engenheiro",
+          "alias": "Michael Scofield"
+        },
+        {
+          "content": "Caçadora de monstros",
+          "alias": "Buffy Summers"
+        },
+        {
+          "content": "Físico teórico",
+          "alias": "Sheldon Cooper"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Escolha um hobby:",
+      "options": [
+        {
+          "content": "Compras",
+          "alias": "Rachel Green"
+        },
+        {
+          "content": "Planejar estratégias",
+          "alias": "Michael Scofield"
+        },
+        {
+          "content": "Treinamento físico",
+          "alias": "Buffy Summers"
+        },
+        {
+          "content": "Jogos de tabuleiro",
+          "alias": "Sheldon Cooper"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é a sua maior fraqueza?",
+      "options": [
+        {
+          "content": "Vaidade",
+          "alias": "Rachel Green"
+        },
+        {
+          "content": "Teimosia",
+          "alias": "Michael Scofield"
+        },
+        {
+          "content": "Impulsividade",
+          "alias": "Buffy Summers"
+        },
+        {
+          "content": "Dificuldade em socializar",
+          "alias": "Sheldon Cooper"
+        }
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "character": "Rachel Green",
+      "series": "Friends"
+    },
+    {
+      "character": "Michael Scofield",
+      "series": "Prison Break"
+    },
+    {
+      "character": "Buffy Summers",
+      "series": "Buffy, A Caça-Vampiros"
+    },
+    {
+      "character": "Sheldon Cooper",
+      "series": "The Big Bang Theory"
+    }
+  ]
+}
