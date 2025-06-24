@@ -1,6 +1,6 @@
 ![Angular Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/200px-Angular_full_color_logo.svg.png) 
 
-# ✅Página feita com Angula para um desafio da DIO
+# ✅Página feita com Angular para um desafio da DIO
 
 ## O projeto era recriar uma página inspirada no Buzz Feed
 
